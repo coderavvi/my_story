@@ -1,2 +1,1 @@
-I just added a new chapter.
-I just added this text.
+This is a better chapter 4 than the one i wrote previously.
